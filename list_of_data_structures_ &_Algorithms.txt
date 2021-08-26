@@ -1,3 +1,4 @@
+Data Structures
 1-Strings
 2-Arrays 
 3-Linked Lists 
@@ -11,7 +12,6 @@
 
 
 Algorithms
-
 Search
 1-Breadth First Search (BFS)
 2-Depth First Search (DFS)
