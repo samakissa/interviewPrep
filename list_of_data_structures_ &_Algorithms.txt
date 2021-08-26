@@ -1,0 +1,39 @@
+1-Strings
+2-Arrays 
+3-Linked Lists 
+4-Stacks 
+5-Queues 
+6-Hash Tables 
+7-Trees 
+8-Heaps 
+9-Graphs
+10-BST 
+
+
+Algorithms
+
+Search
+1-Breadth First Search (BFS)
+2-Depth First Search (DFS)
+3-Binary Search 
+
+Sorting 
+1-Quick Sort 
+2-Merge Sort 
+3- Topological Sort 
+
+Important Topics 
+1-Recursion
+2-Greedy Algorithms 
+3-Dynamic Programming
+4-Bit manipulation (AND,NOT,XOR,OR)
+5-Backtracking
+6-Two pointers 
+7-Divide and Conquer
+
+Bonus 
+1-Compare and contrast Algorithms (know tradeoffs)
+2-Time-Space Complexity 
+
+
+
